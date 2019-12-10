@@ -57,7 +57,8 @@
 				}
 			}});
 
- btn1.addActionListener(new ActionListener(){//将注册信息存入
+
+	 btn1.addActionListener(new ActionListener(){//将注册信息存入
 			@SuppressWarnings("null")
 			@Override
 			public void actionPerformed(ActionEvent e) {
@@ -73,14 +74,14 @@
 				JOptionPane.showMessageDialog(null,"成功！");
 			}});
       	private static void Deposit(String a_1,char[] a_2) throws Exception{
-		 String path = "d:/mima.txt";
+		String path = "d:/mima.txt";
 	        File file = new File(path);
 	        BufferedWriter buf = null;
 	        buf = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(file)));
 	        buf.write(a_1+a_2);
 	        buf.close(); 
-	}
-}
+	}}
+	
 
 		btn.addActionListener(new ActionListener(){//将选课信息导入文本域
 			@SuppressWarnings("null")
