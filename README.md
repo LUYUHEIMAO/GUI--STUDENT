@@ -107,3 +107,4 @@
 ![image](https://github.com/LUYUHEIMAO/GUI--STUDENT/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_201912101816473.png)<br>
 ![image](https://github.com/LUYUHEIMAO/GUI--STUDENT/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_201912101816474.png)
 ## 七、编程感想
+通过本次实验我更熟悉了GUI窗体的设计与实现，更了解了对按钮添加事件方法。能够使用lo流存入导出数据，实现在界面上支持注册、选课、退课等操作。
