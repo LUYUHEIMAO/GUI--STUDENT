@@ -13,8 +13,8 @@
 ## 三、实验过程
 以学生选课退课系统窗口为第一页面，添加注册和登录按钮。注册按钮切出学生注册页面窗口，添加确定和重置按钮；对确定按钮添加事件，利用io流将数据进行存储进mima.txt；对重置按钮添加事件，按下后清除文本框内信息。对登录按钮添加事件，先利用io流将学号、密码存入new_mima.txt文件，再将new_mima.txt和mima.txt文件导入数组，进行比对，一致则登录进入学生选课页面，反之则提示学号密码错误。在学生选课页面输入选课信息确定选课后进行储存，取消学科后进行删除，查看选课可进入查看选课页面进行查看。
 ## 四、核心代码
-//登录按钮对学号密码比对
-       btn1.addActionListener(new ActionListener(){
+
+       btn1.addActionListener(new ActionListener(){//登录按钮对学号密码比对
 			@SuppressWarnings("null")
 			@Override
 			public void actionPerformed(ActionEvent e) {	
@@ -56,8 +56,8 @@
 					e1.printStackTrace();
 				}
 			}});
-//将注册信息存入
- btn1.addActionListener(new ActionListener(){
+
+ btn1.addActionListener(new ActionListener(){//将注册信息存入
 			@SuppressWarnings("null")
 			@Override
 			public void actionPerformed(ActionEvent e) {
@@ -81,8 +81,8 @@
 	        buf.close(); 
 	}
 }
-//将选课信息导入文本域
-		btn.addActionListener(new ActionListener(){
+
+		btn.addActionListener(new ActionListener(){//将选课信息导入文本域
 			@SuppressWarnings("null")
 			@Override
 
