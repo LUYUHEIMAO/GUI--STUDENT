@@ -100,5 +100,6 @@
 				System.err.println("File Error!");
 				}}}}); 	
 ## 五、流程图
+![image](https://github.com/LUYUHEIMAO/GUI--STUDENT/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191210181647.png)
 ## 六、运行截图
 ## 七、编程感想
