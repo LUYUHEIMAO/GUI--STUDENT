@@ -102,4 +102,8 @@
 ## 五、流程图
 ![image](https://github.com/LUYUHEIMAO/GUI--STUDENT/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191210181647.png)
 ## 六、运行截图
+![image](https://github.com/LUYUHEIMAO/GUI--STUDENT/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_201912101816471.png)<br>
+![image](https://github.com/LUYUHEIMAO/GUI--STUDENT/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_201912101816472.png)<br>
+![image](https://github.com/LUYUHEIMAO/GUI--STUDENT/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_201912101816473.png)<br>
+![image](https://github.com/LUYUHEIMAO/GUI--STUDENT/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_201912101816474.png)
 ## 七、编程感想
